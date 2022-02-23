@@ -11,3 +11,80 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+.styling{
+  text-shadow: 2px 2px 3px cyan;
+  /* background-color: brown; */
+  width: 600px;
+  text-align: center;
+  margin-left: 400px;
+}
+.styling:hover{
+  /* text-shadow: 2px 2px 3px cyan;
+  /* background-color: brown; */
+  background-color: rgb(86, 228, 233);
+}
+/* .btn{
+  display: flex;
+  justify-content: space-evenly;
+} */
+.container1{
+  display: flex;
+}
+.fun2{
+  width: 400px;
+  height: 250px;
+  border: 2px solid black;
+  text-align: center;
+  border-radius: 20px;
+  background-color: deeppink;
+  margin-top: 100px;
+  margin-left: 300px;
+}
+.fun1{
+  width: 400px;
+  height: 250px;
+  border: 2px solid black;
+  border-radius: 20px;
+  background-color: cadetblue;
+  text-align: center;
+  margin-top: 100px;
+  margin-left: 200px;
+}
+.btn1{
+  width: 250px;
+  height: 60px;
+color: white;
+border-radius: 20px;
+border: none;
+  background-color:coral;
+
+}
+.btn1:hover{
+  background-color: burlywood;
+}
+.btn2{
+  width: 250px;
+  height: 60px;
+  color: white;
+  border-radius: 20px;
+border: none;
+  background-color:rgb(80, 205, 255);
+ 
+}
+.btn2:hover{
+background-color: cadetblue;
+}
+.btndiv{
+  margin-left: 350px;
+  margin-top: 100px;
+}
+.btndiv2{
+  margin-left: 250px;
+  margin-top: 100px;
+}
+.para2{
+  background-color: aqua;
+}
+.para1{
+  background-color: darkkhaki;
+}
