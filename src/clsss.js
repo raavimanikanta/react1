@@ -23,7 +23,7 @@ class Classcomp extends Component{
            this.state.divcont ? <div className="fun2">
            <h2>This is created using class component </h2> 
            <p className="para2">This is done using external Css</p>
-           <p style={{color:"white"}}>This is fone by usins inline  css</p>
+           <p style={{color:"white"}}>This is done by using inline  css</p>
            </div> : null
         }
 

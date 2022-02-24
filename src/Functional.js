@@ -17,7 +17,7 @@ const Function=()=>{
          status ?   <div className="fun1">
            <h2>This is created using Functional component </h2> 
            <p className="para1">This is done using external Css</p>
-           <p style={{color:"red"}}>This is fone by usins inline  css</p>
+           <p style={{color:"red"}}>This is done by using inline  css</p>
         </div> : null 
         }
         
